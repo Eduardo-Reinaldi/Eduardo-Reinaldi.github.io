@@ -1,0 +1,21 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "X-Burguer",
+        "descricao": "ingredientes xxxxxxxxxxxxx",
+        "preco": 22.00,
+        "imagem": "img/XBurguer.jpg",
+        "categoria": "Lanches"
+      },
+      {
+        "id": 2,
+        "nome": "Esfirra",
+        "descricao": "ingredientes xxxxxxxxxxxxx",
+        "preco": 0.00,
+        "imagem": "https://via.placeholder.com/150",
+        "categoria": "Salgados"
+      }
+    ]
+  }
+  
