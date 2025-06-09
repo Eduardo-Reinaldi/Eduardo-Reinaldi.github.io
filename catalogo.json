@@ -8,31 +8,36 @@
             "nome": "Duna",
             "autor": "Frank Herbert",
             "dataPublicacao": "1965-08-01",
-            "generoLiterario": "Ficção Científica"
+            "generoLiterario": "Ficção Científica",
+            "sinopse": "Em um futuro distante, Paul Atreides luta pelo controle do planeta deserto Arrakis, fonte da especiaria mais valiosa do universo."
           },
           {
             "nome": "Neuromancer",
             "autor": "William Gibson",
             "dataPublicacao": "1984-07-01",
-            "generoLiterario": "Ficção Científica"
+            "generoLiterario": "Ficção Científica",
+            "sinopse": "Um hacker desonrado é contratado para executar o maior ataque cibernético da história em um mundo dominado por megacorporações."
           },
           {
             "nome": "Fundação",
             "autor": "Isaac Asimov",
             "dataPublicacao": "1951-06-01",
-            "generoLiterario": "Ficção Científica"
+            "generoLiterario": "Ficção Científica",
+            "sinopse": "Uma organização secreta tenta preservar o conhecimento humano para evitar a queda da galáxia em uma era de caos."
           },
           {
             "nome": "O Jogo do Exterminador",
             "autor": "Orson Scott Card",
             "dataPublicacao": "1985-01-15",
-            "generoLiterario": "Ficção Científica"
+            "generoLiterario": "Ficção Científica",
+            "sinopse": "Um garoto prodígio é treinado em uma escola militar para liderar a humanidade contra uma ameaça alienígena."
           },
           {
             "nome": "A Mão Esquerda da Escuridão",
             "autor": "Ursula K. Le Guin",
             "dataPublicacao": "1969-03-01",
-            "generoLiterario": "Ficção Científica"
+            "generoLiterario": "Ficção Científica",
+            "sinopse": "Em um planeta onde não há distinção de gênero, um enviado humano tenta estabelecer contato diplomático."
           }
         ]
       },
@@ -43,31 +48,36 @@
             "nome": "Orgulho e Preconceito",
             "autor": "Jane Austen",
             "dataPublicacao": "1813-01-28",
-            "generoLiterario": "Romance"
+            "generoLiterario": "Romance",
+            "sinopse": "A história das irmãs Bennet e os desafios do amor e das convenções sociais na Inglaterra do século XIX."
           },
           {
             "nome": "Dom Casmurro",
             "autor": "Machado de Assis",
             "dataPublicacao": "1899-01-01",
-            "generoLiterario": "Romance"
+            "generoLiterario": "Romance",
+            "sinopse": "Narrado por Bentinho, o romance explora ciúmes, memória e a dúvida sobre a fidelidade da esposa Capitu."
           },
           {
             "nome": "O Morro dos Ventos Uivantes",
             "autor": "Emily Brontë",
             "dataPublicacao": "1847-12-01",
-            "generoLiterario": "Romance"
+            "generoLiterario": "Romance",
+            "sinopse": "Uma história intensa de amor e vingança ambientada nos páramos sombrios da Inglaterra."
           },
           {
             "nome": "Cem Anos de Solidão",
             "autor": "Gabriel García Márquez",
             "dataPublicacao": "1967-05-30",
-            "generoLiterario": "Romance"
+            "generoLiterario": "Romance",
+            "sinopse": "Saga da família Buendía na cidade fictícia de Macondo, mesclando realismo mágico e história."
           },
           {
             "nome": "A Culpa é das Estrelas",
             "autor": "John Green",
             "dataPublicacao": "2012-01-10",
-            "generoLiterario": "Romance"
+            "generoLiterario": "Romance",
+            "sinopse": "Dois jovens com câncer se apaixonam e enfrentam juntos os desafios da vida e da doença."
           }
         ]
       },
@@ -78,31 +88,36 @@
             "nome": "O Senhor dos Anéis",
             "autor": "J.R.R. Tolkien",
             "dataPublicacao": "1954-07-29",
-            "generoLiterario": "Fantasia"
+            "generoLiterario": "Fantasia",
+            "sinopse": "A jornada épica para destruir um anel de poder e salvar a Terra-média das forças do mal."
           },
           {
             "nome": "Harry Potter e a Pedra Filosofal",
             "autor": "J.K. Rowling",
             "dataPublicacao": "1997-06-26",
-            "generoLiterario": "Fantasia"
+            "generoLiterario": "Fantasia",
+            "sinopse": "Um garoto descobre ser um bruxo e começa sua aventura na Escola de Magia de Hogwarts."
           },
           {
             "nome": "O Nome do Vento",
             "autor": "Patrick Rothfuss",
             "dataPublicacao": "2007-03-27",
-            "generoLiterario": "Fantasia"
+            "generoLiterario": "Fantasia",
+            "sinopse": "A história de Kvothe, um jovem talentoso que se torna um lendário mago e músico."
           },
           {
             "nome": "As Crônicas de Nárnia",
             "autor": "C.S. Lewis",
             "dataPublicacao": "1950-10-16",
-            "generoLiterario": "Fantasia"
+            "generoLiterario": "Fantasia",
+            "sinopse": "Crianças descobrem um mundo mágico através de um guarda-roupa e enfrentam aventuras incríveis."
           },
           {
             "nome": "Mistborn: O Império Final",
             "autor": "Brandon Sanderson",
             "dataPublicacao": "2006-07-17",
-            "generoLiterario": "Fantasia"
+            "generoLiterario": "Fantasia",
+            "sinopse": "Um grupo de rebeldes com poderes especiais tenta derrubar um império tirano e imortal."
           }
         ]
       },
@@ -113,31 +128,36 @@
             "nome": "Guerra e Paz",
             "autor": "Liev Tolstói",
             "dataPublicacao": "1869-01-01",
-            "generoLiterario": "Histórico"
+            "generoLiterario": "Histórico",
+            "sinopse": "Retrato épico da sociedade russa durante as guerras napoleônicas."
           },
           {
             "nome": "Os Pilares da Terra",
             "autor": "Ken Follett",
             "dataPublicacao": "1989-10-01",
-            "generoLiterario": "Histórico"
+            "generoLiterario": "Histórico",
+            "sinopse": "A construção de uma catedral na Inglaterra medieval, marcada por intrigas e ambições."
           },
           {
             "nome": "O Diário de Anne Frank",
             "autor": "Anne Frank",
             "dataPublicacao": "1947-06-25",
-            "generoLiterario": "Histórico"
+            "generoLiterario": "Histórico",
+            "sinopse": "Relatos de uma jovem judia escondida durante a ocupação nazista na Segunda Guerra Mundial."
           },
           {
             "nome": "A Catedral do Mar",
             "autor": "Ildefonso Falcones",
             "dataPublicacao": "2006-09-18",
-            "generoLiterario": "Histórico"
+            "generoLiterario": "Histórico",
+            "sinopse": "A vida e os desafios de um servo na Barcelona medieval durante a construção da catedral Santa Maria."
           },
           {
             "nome": "O Caçador de Pipas",
             "autor": "Khaled Hosseini",
             "dataPublicacao": "2003-05-29",
-            "generoLiterario": "Histórico"
+            "generoLiterario": "Histórico",
+            "sinopse": "A amizade, culpa e redenção entre dois meninos no Afeganistão antes e durante a invasão soviética."
           }
         ]
       },
@@ -148,31 +168,36 @@
             "nome": "O Código Da Vinci",
             "autor": "Dan Brown",
             "dataPublicacao": "2003-03-18",
-            "generoLiterario": "Suspense / Mistério"
+            "generoLiterario": "Suspense / Mistério",
+            "sinopse": "Um simbologista desvenda segredos ocultos que podem abalar a história da Igreja Católica."
           },
           {
             "nome": "Sherlock Holmes: O Cão dos Baskervilles",
             "autor": "Arthur Conan Doyle",
             "dataPublicacao": "1902-04-01",
-            "generoLiterario": "Suspense / Mistério"
+            "generoLiterario": "Suspense / Mistério",
+            "sinopse": "Holmes investiga uma maldição mortal que assombra a família Baskerville em uma mansão isolada."
           },
           {
             "nome": "Garota Exemplar",
             "autor": "Gillian Flynn",
             "dataPublicacao": "2012-06-05",
-            "generoLiterario": "Suspense / Mistério"
+            "generoLiterario": "Suspense / Mistério",
+            "sinopse": "Um casamento perfeito esconde segredos sombrios que vêm à tona quando a esposa desaparece."
           },
           {
             "nome": "O Silêncio dos Inocentes",
             "autor": "Thomas Harris",
             "dataPublicacao": "1988-02-01",
-            "generoLiterario": "Suspense / Mistério"
+            "generoLiterario": "Suspense / Mistério",
+            "sinopse": "Uma jovem agente do FBI consulta um psicopata preso para capturar um assassino em série."
           },
           {
             "nome": "A Garota no Trem",
             "autor": "Paula Hawkins",
             "dataPublicacao": "2015-01-13",
-            "generoLiterario": "Suspense / Mistério"
+            "generoLiterario": "Suspense / Mistério",
+            "sinopse": "Uma mulher observa a vida perfeita de um casal de trem, até se envolver em um mistério perigoso."
           }
         ]
       }
