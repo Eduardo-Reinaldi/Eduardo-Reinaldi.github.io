@@ -1,0 +1,181 @@
+{
+  "biblioteca": {
+    "categorias": [
+      {
+        "genero": "Ficção Científica",
+        "livros": [
+          {
+            "nome": "Duna",
+            "autor": "Frank Herbert",
+            "dataPublicacao": "1965-08-01",
+            "generoLiterario": "Ficção Científica"
+          },
+          {
+            "nome": "Neuromancer",
+            "autor": "William Gibson",
+            "dataPublicacao": "1984-07-01",
+            "generoLiterario": "Ficção Científica"
+          },
+          {
+            "nome": "Fundação",
+            "autor": "Isaac Asimov",
+            "dataPublicacao": "1951-06-01",
+            "generoLiterario": "Ficção Científica"
+          },
+          {
+            "nome": "O Jogo do Exterminador",
+            "autor": "Orson Scott Card",
+            "dataPublicacao": "1985-01-15",
+            "generoLiterario": "Ficção Científica"
+          },
+          {
+            "nome": "A Mão Esquerda da Escuridão",
+            "autor": "Ursula K. Le Guin",
+            "dataPublicacao": "1969-03-01",
+            "generoLiterario": "Ficção Científica"
+          }
+        ]
+      },
+      {
+        "genero": "Romance",
+        "livros": [
+          {
+            "nome": "Orgulho e Preconceito",
+            "autor": "Jane Austen",
+            "dataPublicacao": "1813-01-28",
+            "generoLiterario": "Romance"
+          },
+          {
+            "nome": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "dataPublicacao": "1899-01-01",
+            "generoLiterario": "Romance"
+          },
+          {
+            "nome": "O Morro dos Ventos Uivantes",
+            "autor": "Emily Brontë",
+            "dataPublicacao": "1847-12-01",
+            "generoLiterario": "Romance"
+          },
+          {
+            "nome": "Cem Anos de Solidão",
+            "autor": "Gabriel García Márquez",
+            "dataPublicacao": "1967-05-30",
+            "generoLiterario": "Romance"
+          },
+          {
+            "nome": "A Culpa é das Estrelas",
+            "autor": "John Green",
+            "dataPublicacao": "2012-01-10",
+            "generoLiterario": "Romance"
+          }
+        ]
+      },
+      {
+        "genero": "Fantasia",
+        "livros": [
+          {
+            "nome": "O Senhor dos Anéis",
+            "autor": "J.R.R. Tolkien",
+            "dataPublicacao": "1954-07-29",
+            "generoLiterario": "Fantasia"
+          },
+          {
+            "nome": "Harry Potter e a Pedra Filosofal",
+            "autor": "J.K. Rowling",
+            "dataPublicacao": "1997-06-26",
+            "generoLiterario": "Fantasia"
+          },
+          {
+            "nome": "O Nome do Vento",
+            "autor": "Patrick Rothfuss",
+            "dataPublicacao": "2007-03-27",
+            "generoLiterario": "Fantasia"
+          },
+          {
+            "nome": "As Crônicas de Nárnia",
+            "autor": "C.S. Lewis",
+            "dataPublicacao": "1950-10-16",
+            "generoLiterario": "Fantasia"
+          },
+          {
+            "nome": "Mistborn: O Império Final",
+            "autor": "Brandon Sanderson",
+            "dataPublicacao": "2006-07-17",
+            "generoLiterario": "Fantasia"
+          }
+        ]
+      },
+      {
+        "genero": "Histórico",
+        "livros": [
+          {
+            "nome": "Guerra e Paz",
+            "autor": "Liev Tolstói",
+            "dataPublicacao": "1869-01-01",
+            "generoLiterario": "Histórico"
+          },
+          {
+            "nome": "Os Pilares da Terra",
+            "autor": "Ken Follett",
+            "dataPublicacao": "1989-10-01",
+            "generoLiterario": "Histórico"
+          },
+          {
+            "nome": "O Diário de Anne Frank",
+            "autor": "Anne Frank",
+            "dataPublicacao": "1947-06-25",
+            "generoLiterario": "Histórico"
+          },
+          {
+            "nome": "A Catedral do Mar",
+            "autor": "Ildefonso Falcones",
+            "dataPublicacao": "2006-09-18",
+            "generoLiterario": "Histórico"
+          },
+          {
+            "nome": "O Caçador de Pipas",
+            "autor": "Khaled Hosseini",
+            "dataPublicacao": "2003-05-29",
+            "generoLiterario": "Histórico"
+          }
+        ]
+      },
+      {
+        "genero": "Suspense / Mistério",
+        "livros": [
+          {
+            "nome": "O Código Da Vinci",
+            "autor": "Dan Brown",
+            "dataPublicacao": "2003-03-18",
+            "generoLiterario": "Suspense / Mistério"
+          },
+          {
+            "nome": "Sherlock Holmes: O Cão dos Baskervilles",
+            "autor": "Arthur Conan Doyle",
+            "dataPublicacao": "1902-04-01",
+            "generoLiterario": "Suspense / Mistério"
+          },
+          {
+            "nome": "Garota Exemplar",
+            "autor": "Gillian Flynn",
+            "dataPublicacao": "2012-06-05",
+            "generoLiterario": "Suspense / Mistério"
+          },
+          {
+            "nome": "O Silêncio dos Inocentes",
+            "autor": "Thomas Harris",
+            "dataPublicacao": "1988-02-01",
+            "generoLiterario": "Suspense / Mistério"
+          },
+          {
+            "nome": "A Garota no Trem",
+            "autor": "Paula Hawkins",
+            "dataPublicacao": "2015-01-13",
+            "generoLiterario": "Suspense / Mistério"
+          }
+        ]
+      }
+    ]
+  }
+}
